@@ -1,0 +1,5 @@
+
+{
+  "logFilePath": "app_log.txt",
+  "logToFile": true
+}
